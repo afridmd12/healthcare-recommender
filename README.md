@@ -87,7 +87,7 @@ health_app/
 ## Setup & Usage
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/afridmd12/healthcare-recommender.git)
+git clone https://github.com/afridmd12/healthcare-recommender.git
 cd healthcare-recommendation
 ```
 ### 2. Install Dependencies
